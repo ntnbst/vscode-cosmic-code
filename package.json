@@ -3,6 +3,8 @@
   "displayName": "Cosmic Code",
   "description": "Embark on an interstellar coding journey with Cosmic Code, a VS Code theme that brings the awe-inspiring beauty of the cosmos to your development environment.",
   "version": "0.0.1",
+  "publisher": "ni1in",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.94.0"
   },
