@@ -1,0 +1,30 @@
+{
+  "name": "cosmic-code",
+  "displayName": "Cosmic Code",
+  "description": "Embark on an interstellar coding journey with Cosmic Code, a VS Code theme that brings the awe-inspiring beauty of the cosmos to your development environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntnbst/vscode-cosmic-code"
+  },
+  "homepage": "https://github.com/ntnbst/vscode-cosmic-code",
+  "bugs": {
+    "url": "https://github.com/ntnbst/vscode-cosmic-code/issues",
+    "email": "0xnb@proton.me"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-code-color-theme.json"
+      }
+    ]
+  }
+}
