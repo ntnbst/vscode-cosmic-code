@@ -6,8 +6,7 @@ Embark on an interstellar coding journey with Cosmic Code, a VS Code theme that 
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/ni1in.vscode-codmic-code)
-
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/ni1in.cosmic-code)
 ## Looking for the One Light theme?
 
 As of now only dark theme is available.
